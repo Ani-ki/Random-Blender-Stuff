@@ -7,7 +7,8 @@ class xtPanel(bpy.types.Panel):
     bl_idname = "OBJECT_PT_xt"
     bl_space_type = 'PROPERTIES'
     bl_region_type = 'WINDOW'
-    bl_context = "object"
+    bl_context = "data"
+    bl_order = 0
 
     def draw(self, context):
         layout = self.layout
