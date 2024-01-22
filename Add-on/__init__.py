@@ -2,9 +2,9 @@ import bpy
 
 
 class xtPanel(bpy.types.Panel):
-    ## yeah im calling it xiv tools so what wanna fight about it
-    bl_label = "XIV Tools"
-    bl_idname = "OBJECT_PT_xt"
+    ## i am no longer calling it xiv tools for obvious reasons thanks
+    bl_label = "Luna Tools"
+    bl_idname = "OBJECT_PT_lt"
     bl_space_type = 'PROPERTIES'
     bl_region_type = 'WINDOW'
     bl_context = "data"
