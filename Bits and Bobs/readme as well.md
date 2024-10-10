@@ -10,7 +10,7 @@ Please take into consideration that I run all my scripts while in `Object Mode` 
 - Make that new area a Text Editor window![image](https://github.com/Ani-ki/Random-Blender-Scripts/assets/56663405/78ca0866-8d34-4b75-98e6-fd6962f0e428)
 - Hit `Open` and then navigate to wherever you saved the `.py` file, then hit `Open Text`.
 - Hit the little Play button (`Run Script`) or press `Ctrl+P`.
-- Depending on what the script does you'll either see the changes happen pretty much immediately, or you can go into Edit Mode andd make sure things look good. Or an error will pop up! In which case come annoy me on [bird.hellsite](https://twitter.com/Ani_ki__).
+- Depending on what the script does you'll either see the changes happen pretty much immediately, or you can go into Edit Mode and make sure things look good. Or an error will pop up! In which case come annoy me on [bird.hellsite](https://twitter.com/Luminiari) (fuck off with that 'X' bullshit, Elon can huff my nuts).
 
 ## But also
 
